@@ -21,7 +21,7 @@ img{
 
 .slider-section{
     background-image: url(https://i.ibb.co/C6ghsNJ/mbr-10.jpg);
-    
+     background-position: center center;
     padding: 200px 0;
     position: relative;
     z-index: 1;
